@@ -37,6 +37,7 @@ data['thursday lesson'][1] = 'ИНФОРМАТИКА'
 
 
 print(data)
-data.to_csv('data_schedule.csv')
+
+data.to_csv('data/data_schedule.csv')
 
 print()
